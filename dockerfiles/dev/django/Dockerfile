@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM python:3.9.21-alpine3.21
 
 LABEL maintainer="bigdeli.ali3@gmail.com"
 
